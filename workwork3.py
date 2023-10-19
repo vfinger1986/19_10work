@@ -24,8 +24,7 @@ class Manager(Employee):
         super().__init__(name, age)
 
     def print(self):
-        print (f"Менеджер {self.name} возраст {self.age}")
-
+        print(f"Менеджер {self.name} возраст {self.age}")
 
     def __str__(self):
         return f"Менеджер {self.name} возраст {self.age}"
@@ -39,8 +38,7 @@ class President(Employee):
         super().__init__(name, age)
 
     def print(self):
-        print (f"Президент {self.name} возраст {self.age}")
-
+        print(f"Президент {self.name} возраст {self.age}")
 
     def __str__(self):
         return f"Президент {self.name} возраст {self.age}"
@@ -54,7 +52,7 @@ class Worker(Employee):
         super().__init__(name, age)
 
     def print(self):
-        print (f"Рабочий {self.name} возраст {self.age}")
+        print(f"Рабочий {self.name} возраст {self.age}")
 
     def __str__(self):
         return f"Рабочий {self.name} возраст {self.age}"
