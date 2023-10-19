@@ -37,4 +37,4 @@ print("Минимальное:", Count.find_min(7, 336, 852, 11))
 print("Среднее-арифметическое:", Count.find_avg(5, 6, 158, 3))
 print("Факториал:", Count.find_factorial(7))
 
-dt= not datetime.time()print(dt.hour,dt.ninute)
+
