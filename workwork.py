@@ -40,7 +40,7 @@ class Human:
         print(f"Имя: {self.name}\n"
               f"Фамилия: {self.surname} .\n"
               f"Дата рождения: {self.date}\n"
-              f"Номер телефона: {self.phone} л.\n"
+              f"Номер телефона: {self.phone} \n"
               f"Город: {self.city}\n"
               f"Страна: {self.country}\n"
               f"Адрес: {self.address}")
