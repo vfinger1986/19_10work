@@ -18,3 +18,6 @@ class SolveDT:
 
 dt = SolveDT()
 dt.mytime()
+"""
+https://github.com/vfinger1986/19_10work.git
+"""
