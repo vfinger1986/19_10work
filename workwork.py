@@ -55,7 +55,10 @@ class Human:
         self.address = address
 
 
+
+
 h1 = Human()
 h1.Output()
 h1.Input("Константин", "Константинов", "17.05.2003", "4563217889", "Пинск", "Белоруссия", "Ленина 6 ")
 h1.Output()
+print(h1.date)
