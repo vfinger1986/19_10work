@@ -38,7 +38,7 @@ class Human:
 
     def Output(self):
         print(f"Имя: {self.name}\n"
-              f"Фамилия: {self.surname} .\n"
+              f"Фамилия: {self.surname} \n"
               f"Дата рождения: {self.date}\n"
               f"Номер телефона: {self.phone} \n"
               f"Город: {self.city}\n"
